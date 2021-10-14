@@ -1,4 +1,5 @@
-# Whaddup my dudes
+[![build](https://github.com/Eb0nheart/SSSoftware.TodaysTodos.Website/actions/workflows/build.yaml/badge.svg)](https://github.com/Eb0nheart/SSSoftware.TodaysTodos.Website/actions/workflows/build.yaml)
 
-**Intro**
-Fuck off
+# Website
+
+This is the website application for Todays Todos
